@@ -20,8 +20,11 @@
   "dependencies": {
     "dotenv": "^16.0.1",
     "express": "^4.18.1",
-    "octokit": "^1.7.1"
+    "octokit": "^1.7.1",
+    "@octokit/app": "12.0.5"
   },
+
+
   "devDependencies": {
     "eslint": "^8.15.0",
     "eslint-config-standard": "^17.0.0",
