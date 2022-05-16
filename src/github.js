@@ -6,7 +6,7 @@ async function getRepoEnvironments(repository, owner, octokit){
         .then(res => res.data.environments)
 
     return environments;
-    // daswdd
+    // AGORA VAI
 
 }
 
