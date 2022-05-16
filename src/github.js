@@ -1,4 +1,5 @@
 async function getRepoEnvironments(repository, owner, octokit){
+    // comments
     const environments = await octokit.request('GET /repos/{owner}/{repo}/environments', {
         owner: owner,
         repo: repository
