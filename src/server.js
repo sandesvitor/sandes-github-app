@@ -8,7 +8,7 @@ const app = express();
 
 app.get("/environments", async (req, res) => {
     try {
-        // OUTRA MUDANÇAd
+        // OUTRA
         // DELETE
         const repository = process.env.REPOSITORY;
         const owner = process.env.OWNER;
