@@ -9,6 +9,7 @@ const app = express();
 app.get("/environments", async (req, res) => {
     try {
         // OUTRA
+        // DROP
         const repository = process.env.REPOSITORY;
         const owner = process.env.OWNER;
         const token = process.env.GITHUB_TOKEN;
