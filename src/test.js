@@ -1,5 +1,5 @@
 
- Oi meu nome é UPDATE
+ Oi meu nome é UPATE
  ..
 	. :)
 
@@ -7,5 +7,5 @@
 
  . .
 
-  DELETE é o que há :)
+  DELTE é o que há :)
 
