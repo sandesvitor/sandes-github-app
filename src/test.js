@@ -7,5 +7,5 @@
 
  . .
 
-  DELTE é o que há :)
+  DELETE é o que há :)
 
